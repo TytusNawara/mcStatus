@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import discord
 import os
 from mcstatus import MinecraftServer
